@@ -1,0 +1,36 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+
+# IntelliJ related
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# VS Code related
+.vscode/
+
+# Flutter specific
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+macos/Pods/
+web/.dart_tool/
+
+# Generated files
+pubspec.lock
+coverage/
+
+# Secrets
+**/google-services.json
+**/GoogleService-Info.plist
+**/.env
