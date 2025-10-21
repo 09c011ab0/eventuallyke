@@ -1,4 +1,4 @@
-<title> eventuallyke Kenya Events Hub </title>
+<h1>eventuallyke Kenya Events Hub</h1>
 Discover, share, and attend events happening across Kenya. This Flutter app targets Android and iOS with a youthful, modern UI.
 
 Quick Preview (Android/iOS)
