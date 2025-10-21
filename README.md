@@ -2,22 +2,22 @@
 Discover, share, and attend events happening across Kenya. This Flutter app targets Android and iOS with a youthful, modern UI.
 
 Quick Preview (Android/iOS)
-1) Install prerequisites
+<h2>1) Install prerequisites</h2>
 
 Flutter SDK 3.22+ and Dart 3.4+
 Android Studio (Android SDK + emulator) and/or Xcode (iOS Simulator)
 Run flutter doctor and resolve any issues
-2) Generate platform folders (first run only)
+<h2>2) Generate platform folders (first run only)</h2>
 
 flutter create --platforms=android,ios .
-3) Get packages
+<h2>3) Get packages</h2>
 
 flutter pub get
-4) Start a device
+<h2>4) Start a device</h2>
 
 Android: open Android Studio > Device Manager > Start an emulator
 iOS (macOS only): open Simulator from Xcode (or open -a Simulator)
-5) Run the app
+<h2>5) Run the app</h2>
 
 flutter run
 Hot reload: press r in the terminal
