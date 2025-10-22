@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_single_quotes: true
+    unnecessary_this: true
+    avoid_print: true
+    always_put_required_named_parameters_first: false
